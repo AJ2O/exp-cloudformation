@@ -1,0 +1,26 @@
+---
+AWSTemplateFormatVersion: 2010-09-09
+
+Description: 
+  Write out a text description of what this template does.
+
+Metadata:
+  # 
+
+Parameters:
+  # 
+
+Mappings:
+  # 
+
+Conditions:
+  # 
+
+Transforms:
+  # 
+
+Resources:
+  # 
+
+Outputs:
+  # 
